@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://link-to-your-image.jpg](https://media.licdn.com/dms/image/v2/D4D03AQFFOl7W6ihkgA/profile-displayphoto-shrink_800_800/B4DZbP3_ckGYAg-/0/1747244284266?e=1755734400&v=beta&t=Eq8BG8oc1Tequv-f_W8x-BmdMvRpwvs85eUsrnS71CQ)" width="150" height="150" alt="Ahmed Hassan Profile Picture" />
+  <img src="https://drive.google.com/uc?export=view&id=1hTugFj3OFNrFzwH4bCYcbNVetY7QX6XM" width="150" height="150" alt="Ahmed Hassan Profile Picture" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
 <h3 align="center">Backend Developer | Former Clinical Pathologist | ALX SE Graduate</h3>
