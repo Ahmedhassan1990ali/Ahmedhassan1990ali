@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python, SQL, Bash (Basics of JavaScript)
+- **Languages**: Python, SQL, Bash
 - **Frameworks**: Django, Django REST Framework
 - **Databases**: MySQL
 - **Tools**: Git, GitHub, Linux, Postman
