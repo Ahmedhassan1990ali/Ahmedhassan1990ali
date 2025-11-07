@@ -11,8 +11,9 @@
 💡 Transitioned into tech to pursue my passion for problem solving, clean code, and continuous learning.
 
 🎓 Graduate of the ALX Software Engineering Program:
-- Professional Foundations Certificate – October 2024
-- Back-End Web Development Certificate – April 2025
+- Professional Foundations Certificate        – October 2024
+- Back-End Web Development Certificate        – April 2025
+- ProDev Back-End Web Development Certificate – October 2025
 
 🚀 **Currently working on**:
 - Building a Django-based eCommerce backend with token authentication and cart/order management
