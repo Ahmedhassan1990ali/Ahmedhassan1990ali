@@ -27,6 +27,11 @@
 - **Tools**: Git, Docker, Linux
 
 ---
+### Achievements
+
+- Solved 1,000+ problems on LeetCode
+- Built projects with Django, Django REST Framework, and React
+---
 
 ### 📫 Let’s Connect
 
@@ -35,10 +40,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedhassan1990ali&show_icons=true)
 
----
 
 > 💬 "I build clean, maintainable code – driven by curiosity, shaped by discipline."
