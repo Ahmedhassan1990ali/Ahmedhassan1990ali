@@ -37,7 +37,7 @@
 
 ### 📈 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedhassan1990ali&show_icons=true&theme=tokyonight)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedhassan1990ali&show_icons=true)
 
 ---
 
