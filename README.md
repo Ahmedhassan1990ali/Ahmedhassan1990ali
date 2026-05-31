@@ -2,11 +2,11 @@
   <img src="https://drive.google.com/uc?export=view&id=1hTugFj3OFNrFzwH4bCYcbNVetY7QX6XM" width="150" height="150" alt="Ahmed Hassan Profile Picture" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
-<h3 align="center">Backend Developer | Former Clinical Pathologist | ALX SE Graduate</h3>
+<h3 align="center">Fullstack Web Developer | Former Clinical Pathologist | ALX SE Graduate</h3>
 
 ---
 
-🔬 Former medical professional passionate about building scalable backend systems and APIs.
+🔬 Former medical professional passionate about building responsive web applications, scalable backend systems, and RESTful APIs.
 
 💡 Transitioned into tech to pursue my passion for problem solving, clean code, and continuous learning.
 
@@ -14,20 +14,17 @@
 - Professional Foundations Certificate        – October 2024
 - Back-End Web Development Certificate        – April 2025
 - ProDev Back-End Web Development Certificate – October 2025
-
-🚀 **Currently working on**:
-- Building a Django-based eCommerce backend with token authentication and cart/order management
-- Expanding freelance-ready skills and contributing to real-world projects
+- Front-End Web Development Certificate – March 2026
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python, SQL, Bash
-- **Frameworks**: Django, Django REST Framework
-- **Databases**: MySQL
-- **Tools**: Git, GitHub, Linux, Postman
-- **Other**: API development, Debugging
+- **Languages**: Python, JavaScript, SQL
+- **Frontend**: HTML5, CSS3, React, Tailwind CSS
+- **Backend**: Django, Django REST Framework
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: Git, Docker, Linux
 
 ---
 
