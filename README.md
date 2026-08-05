@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1hTugFj3OFNrFzwH4bCYcbNVetY7QX6XM" width="150" height="150" alt="Ahmed Hassan Profile Picture" style="border-radius: 50%;" />
+  <img src="https://drive.google.com/uc?export=view&id=1ab5lGH0YTry1-DILfI7K2sTrTQEgXwp1" width="150" height="150" alt="Ahmed Hassan Profile Picture" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
 <h3 align="center">Fullstack Web Developer | Former Clinical Pathologist | ALX SE Graduate</h3>
